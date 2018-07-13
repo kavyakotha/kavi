@@ -21,11 +21,37 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/success.html
-'1  2  11  ~/index.html
-'2  5  6  ~/index.html
+'0  1  18  ~/contact.html
+'1  1  6  ~/services.html
+'2  1  13  ~/success.html
+'3  2  11  ~/index.html
+'4  5  6  ~/index.html
 
 # Jumplist (newest first):
+-'  1  18  ~/contact.html
+-'  1  6  ~/services.html
+-'  1  13  ~/success.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  13  ~/success.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
+-'  1  6  ~/services.html
+-'  1  13  ~/success.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
+-'  2  11  ~/index.html
+-'  5  0  ~/index.html
+-'  1  0  ~/index.html
 -'  1  13  ~/success.html
 -'  2  11  ~/index.html
 -'  5  0  ~/index.html
@@ -35,6 +61,18 @@
 -'  1  0  ~/index.html
 
 # History of marks within files (newest to oldest):
+
+> ~/contact.html
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/services.html
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
 
 > ~/success.html
 	"	1	13

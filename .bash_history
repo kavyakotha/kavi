@@ -80,3 +80,34 @@ git show HEAD
 history
 git merge testing
 git log --oneline --decorate --graph --all
+git status
+git branch
+git branch master
+git checkout master
+git branch prop
+git git branch
+git branch
+git show HEAD
+touch services.html
+vi services.html
+git status
+git commit -m "hii git"
+git branch
+git log --oneline
+git checkout master
+ls
+git checkout testing
+git show HEAD
+git reflog
+git log --oneline --decorate --graph --all
+git diff master.. testing
+touch contact.html
+vi contact.html
+git add .
+git commit -m "create contact page"
+touch success.html
+vi success.html
+git add .
+git status
+git merge testing
+git branch
